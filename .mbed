@@ -1,0 +1,5 @@
+ROOT=.
+TARGET=NUCLEO_F446RE
+MBED_OS_DIR=C:\mbedOffline44\Datas\MbedOS2
+GCC_ARM_PATH=C:\mbedOffline44\gcc-arm-none-eabi-6-2017-q2-update-win32\bin
+TOOLCHAIN=GCC_ARM
